@@ -10,7 +10,7 @@
     "jaschilz/php-coverage-badger": "^2.0",
     "nelexa/zip": "^3.3"
   },
-  "autoload-dev": {
+  "autoload": {
     "psr-4": {
       "BrianHenryIE\\WP_Dev\\": "src"
     }
