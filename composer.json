@@ -6,7 +6,7 @@
   "require": {
 
   },
-  "require-dev": {
+  "require": {
     "jaschilz/php-coverage-badger": "^2.0",
     "nelexa/zip": "^3.3"
   },
